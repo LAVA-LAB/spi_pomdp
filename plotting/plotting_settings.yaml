@@ -1,0 +1,81 @@
+CheeseMaze-v0_k-0:
+  behavior_k: 0
+  env: CheeseMaze
+  pib: ../data/CheeseMaze-v0_k-0.yaml
+  results: ../results/CheeseMaze-v0/behavior_k_0/
+  pouct-perf: 0.845
+  y_lim:
+  - -0.3
+  - 1
+CheeseMaze-v0_k-1:
+  behavior_k: 1
+  env: CheeseMaze
+  pib: ../data/CheeseMaze-v0_k-1.yaml
+  results: ../results/CheeseMaze-v0/behavior_k_1/
+  pouct-perf: 0.845
+  y_lim:
+  - -0.3
+  - 1
+CheeseMaze-v0_k-2:
+  behavior_k: 2
+  env: CheeseMaze
+  pib: ../data/CheeseMaze-v0_k-2.yaml
+  results: ../results/CheeseMaze-v0/behavior_k_2/
+  pouct-perf: 0.845
+  y_lim:
+  - -0.3
+  - 1
+Tiger-v0_k-0:
+  behavior_k: 0
+  env: Tiger
+  pib: ../data/Tiger-v0_k-0.yaml
+  results: ../results/Tiger-v0/behavior_k_0/
+  pouct-perf: 3.84
+  y_lim:
+  - -30
+  - 6
+Tiger-v0_k-1:
+  behavior_k: 1
+  env: Tiger
+  pib: ../data/Tiger-v0_k-1.yaml
+  results: ../results/Tiger-v0/behavior_k_1/
+  pouct-perf: 3.84
+  y_lim:
+  - -30
+  - 6
+Tiger-v0_k-2:
+  behavior_k: 2
+  env: Tiger
+  pib: ../data/Tiger-v0_k-2.yaml
+  results: ../results/Tiger-v0/behavior_k_2/
+  pouct-perf: 3.84
+  y_lim:
+  - -30
+  - 6
+Voicemail-v0_k-0:
+  behavior_k: 0
+  env: Voicemail
+  pib: ../data/Voicemail-v0_k-0.yaml
+  results: ../results/Voicemail-v0/behavior_k_0/
+  pouct-perf: 1.4825
+  y_lim:
+  - -5
+  - 2
+Voicemail-v0_k-1:
+  behavior_k: 1
+  env: Voicemail
+  pib: ../data/Voicemail-v0_k-1.yaml
+  results: ../results/Voicemail-v0/behavior_k_1/
+  pouct-perf: 1.4825
+  y_lim:
+  - -5
+  - 2
+Voicemail-v0_k-2:
+  behavior_k: 2
+  env: Voicemail
+  pib: ../data/Voicemail-v0_k-2.yaml
+  results: ../results/Voicemail-v0/behavior_k_2/
+  pouct-perf: 1.4825
+  y_lim:
+  - -5
+  - 2
