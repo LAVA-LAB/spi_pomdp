@@ -7,6 +7,9 @@ This repository contains the code for the SPI (safe policy improvement) in POMDP
 > In AAAI, 2023.
 
 
+![teaser](https://github.com/lava-lab/spi_pomdp/blob/main/assets/teaser.gif?raw=true)
+
+
 ## Getting started
 
 After cloning this repository:
